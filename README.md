@@ -2,6 +2,7 @@
 # DTS - CLI utility that shows DATE-n-TIME on clear screen
 ---
 [TIME] format -> [ HOUR:MINUTE AM/PM ]
+---
 [DATE] format -> [ DAY.MONTH.YEAR ]
 ---
 # Example of work:
